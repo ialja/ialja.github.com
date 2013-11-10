@@ -8,7 +8,7 @@ categories:
  - Technology
 ---
 
-At this year's [Digital Assembly](http://blog.ialja.com/2013/06/22/entering-the-digital-playing-field-as-one-european-team-da13/), me and my fellow [Neelie Kores' Young Advisors](https://ec.europa.eu/digital-agenda/en/young-advisors) were challenged to pick a common theme to work on. One suggestion was to focus on providing every young European with opportunities to start learning coding. Out of this suggestion, [Europe Code Week](http://codeweek.eu) was born over summer.
+At this year's [Digital Assembly](http://blog.ialja.com/2013/06/22/entering-the-digital-playing-field-as-one-european-team-da13/), me and my fellow [Neelie Kroes' Young Advisors](https://ec.europa.eu/digital-agenda/en/young-advisors) were challenged to pick a common theme to work on. One suggestion was to focus on providing every young European with opportunities to start learning coding. Out of this suggestion, [Europe Code Week](http://codeweek.eu) was born over summer.
 
 <a href="http://codeweek.eu">{% img "Europe Code Week" /images/uploads/codeu-logo.png %}</a>
 
