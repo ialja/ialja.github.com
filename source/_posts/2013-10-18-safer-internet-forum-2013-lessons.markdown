@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Safer internet forum\: lessons learned and observations from an outsider"
+title: "Safer internet forum: lessons learned and observations from an outsider"
 date: 2013-10-18 20:14
 comments: true
 categories:
